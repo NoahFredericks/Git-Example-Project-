@@ -1,0 +1,29 @@
+Hello World!!
+
+UPDATING... I leanred a few more commands. 
+
+Clear - Clear Terminal
+
+Ls -aL - Open Directory
+
+Mkidr (Filename) - Make Folder
+
+Cd (Folder) - Go to Folder
+
+Nano(Text File) - Open Txt File
+
+Git status - Check to see if any errors 
+
+Git init - Initialized an empty git repository
+
+Git add git.txt - Gets git ready to send to Github
+
+Git commit -m “” - Send a message
+
+git remote add origin - Push an existing Repository
+git branch -M main
+git push -u origin main
+
+Git remote -v - Shows url
+
+git checkout -b - Creates a new Branch
